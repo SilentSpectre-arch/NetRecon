@@ -1,0 +1,6 @@
+# Add ONLY systems you own or have explicit written authorization to test.
+# Examples below use documentation-only IP ranges; replace with your lab scope.
+192.0.2.10
+192.0.2.0/24
+example.org
+*.lab.example.org
